@@ -33,6 +33,12 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
+**TRUTHTABLE**
+
+![WhatsApp Image 2024-12-21 at 09 37 45_a2a231c4](https://github.com/user-attachments/assets/9ce1b53f-158f-49f7-b869-1c1ba3bc598e)
+
+![WhatsApp Image 2024-12-21 at 09 36 50_733f2661](https://github.com/user-attachments/assets/f0fccd7b-76f4-4785-864c-cdb03e29d17e)
+
 
 **Procedure**
 
@@ -80,7 +86,7 @@ assign borrow= ( ~a & b);
 endmodule
 
 
-Developed by: Kaviya
+Developed by: Kaviya.V.M
 
 RegisterNumber: 24900714
 
