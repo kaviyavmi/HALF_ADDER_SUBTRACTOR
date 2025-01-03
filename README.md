@@ -92,14 +92,22 @@ RegisterNumber: 24900714
 
 **RTL Schematic**
 
+i.)HALF ADDER RTL
+
 ![half adder](https://github.com/user-attachments/assets/5deba570-6ec9-4aa3-8b80-98fa2b105f67)
+
+ii.)HALF SUBRACTOR RTL
 
 ![subractor](https://github.com/user-attachments/assets/3897c95f-ecb2-408f-b6d3-ae66f856e099)
 
 
 **Output**
 
+i.)HALF ADDER WAVEFORM
+
 ![half adder waveform](https://github.com/user-attachments/assets/dad190ad-2ea6-46f0-a845-c3b96688dac0)
+
+ii.)HALF SUBRACTOR WAVEFORM
 
 ![subractor waveform](https://github.com/user-attachments/assets/8e629f5e-9494-4d56-b779-ae1ec656b81f)
 
